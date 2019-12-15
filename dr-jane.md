@@ -34,12 +34,13 @@ Dr Jane will ask a series of question that focus on the realms of depressive dis
 
 The first set of questions Dr Jane will ask are general questions based on the Standardised Mini-Mental State Examination (SMMSE) test to quickly evaluate the cognitive state of the individual. Should the person not be able to answer any of the below, they should not continue the test and instead be referred to a specialist:
 
-Question	Answer
-What year is this?	2019
-What season is this?	Summer
-What month is this?	December
-What is today’s date?	15 December 2019
-What day of the week is this?	Sunday
+| Question	                   | Answer            |
+|:-----------------------------:------------------|
+|What year is this?	           |2019              |
+|What season is this?	       |Summer            |
+|What month is this?	       |December          |
+|What is today’s date?	       |15 December 2019  |
+|What day of the week is this? |Sunday            |
 
 The second component of the test is a sequence of 12 questions from the GHQ-12 to measure the psychological stress of the individual. The person will need to answer the questions on a numeric scale of 0 to 3, where 0 represents ‘not at all’ and 3 represents ‘all the time’.
 
@@ -63,9 +64,6 @@ The second component of the test is a sequence of 12 questions from the GHQ-12 t
 
 Upon completion of the test, Dr Jane will add up the results, including reversing some of the results as the numbers can mean a different result, then provide a general recommendation based on the following the best result as per Likert:
 
-Result	Outcome
-### < 11	The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.
-### >= 11	The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing a mental health issue.
 
 | Result        | Outcome                                                                                                                                                  |
 |:--------------:----------------------------------------------------------------------------------------------------------------------------------------------------------|
