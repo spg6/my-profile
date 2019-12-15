@@ -8,7 +8,7 @@ layout: default
 
 ### Large image
 
-![Screenshot](https://spg6.github.io/my-profile/Screenshot Job Description.png)
+![Screenshot](https://spg6.github.io/my-profile/JD.png)
 
 Screenshot of job posting:
 Accessed 5/12/19 9:00 PM
