@@ -65,7 +65,12 @@ Upon completion of the test, Dr Jane will add up the results, including reversin
 
 Result	Outcome
 ### < 11	The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.
-### >= 11	The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing mental health issues.
+### >= 11	The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing a mental health issue.
+
+| Result        | Outcome                                                                                                                                                  |
+|:--------------:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|< 11       	|The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.                                      |
+|>= 11          |The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing a mental health issue.|
 
 Would you like to book an appointment with your GP or videoconference a GP to discuss a treatment plan or further discuss the results?
 
