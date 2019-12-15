@@ -6,7 +6,7 @@ layout: default
 
 ## URL: https://careers.pageuppeople.com/346/cdw/en/job/650496/systems-engineer-office-365?source=IND 
 
-![Screenshot]](https://github.com/spg6/my-profile/blob/master/Screenshot%20Job%20Description.png)
+![Screenshot]](/Screenshot%20Job%20Description.png)
 
 Screenshot of job posting:
 Accessed 5/12/19 9:00 PM
@@ -27,4 +27,4 @@ Secondly, I plan to complete the Information Technology Infrastructure Library (
 
 Combined with an undergraduate IT degree, industry certifications and professional experience at a senior IT support level, I will have developed a strong foundation to advance into an IT infrastructure position, and subsequently a specialised cloud-based system engineer role.
 
-![Career Plan]](https://github.com/spg6/my-profile/blob/master/plan.png)
+![Career Plan]](/plan.png)
