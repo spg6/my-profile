@@ -88,13 +88,15 @@ Dr Jane will be an application that is developed in Java and runs on a Raspberry
 
 The following hardware will need to be purchased for Dr Jane from Pi Australia (Trading As: Little Bird Electronics Pty Ltd)
 
-Item	Cost	Quantity	Purpose
-Raspberry Pi 4 Model B (4 GB)	$94.95	1	Main hardware device that Dr Jane runs on and will be developed on. Similar to the desktop box of a PC.
-Raspberry Pi Power Supply USB-C 5V 15W (White)	$19.95	1	This will provide power to the Raspberry Pi as it does not have battery.
-Raspberry Pi 4 Case	$12.50	1	The Raspberry Pi case will protect Dr Jane and allow the device to be shipped and handled by other people.
-32GB MicroSD card with NOOBS for Raspberry Pi 4	$24.95	1	The 32 GB Micro SD card serves as the main disk (like C: drive on a PC) with NOOBS which is the OS installer for Raspbian.
-Official Raspberry Pi Keyboard	$26.95	1	The Raspberry Pi keyboard is the compatible keyboard for the Raspberry Pi and the user will input their selections using this.
-Speaker Kit for Raspberry Pi	$21.95	1	The speaker kit will provide an audio speaker which Dr Jane will provide a human voice response to the person completing the evaluation.
+| Question	                                    | Qty | Cost | Purpose                                                                                                                                 |
+|:----------------------------------------------:-----:------:-----------------------------------------------------------------------------------------------------------------------------------------|
+|Raspberry Pi 4 Model B (4 GB)	                |1    |$94.95|Main hardware device that Dr Jane runs on and will be developed on. Similar to the desktop box of a PC.                                  |
+|Raspberry Pi Power Supply USB-C 5V 15W (White) |1    |$19.95|This will provide power to the Raspberry Pi as it does not have battery.                                                                 |
+|Raspberry Pi 4 Case	                        |1    |$12.50|The Raspberry Pi case will protect Dr Jane and allow the device to be shipped and handled by other people.                               |
+|32GB MicroSD card with NOOBS for Raspberry Pi 4|1    |$24.95|The 32 GB Micro SD card serves as the main disk (like C: drive on a PC) with NOOBS which is the OS installer for Raspbian.               |
+|Official Raspberry Pi Keyboard                 |1    |$26.95|The Raspberry Pi keyboard is the compatible keyboard for the Raspberry Pi and the user will input their selections using this.           |
+|Speaker Kit for Raspberry Pi	                |1    |$21.95|The speaker kit will provide an audio speaker which Dr Jane will provide a human voice response to the person completing the evaluation. |
+
 
 Total cost, incl GST: $201.25
 
