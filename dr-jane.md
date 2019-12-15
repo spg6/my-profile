@@ -16,7 +16,7 @@ In Australia, there are 3.9 million people who are experiencing a mental health 
 
 In addition, the Productivity Commission has estimated that the direct and indirect costs of mental health on the government is in the range of $10 billion and $15 billion each year.
 
-Mental health disorders have an early onset, particularly beginning in young adults and teenagers. The prevalence of disorders developing due to social media is also increasing <fact something here> 
+Mental health disorders have an early onset, particularly beginning in young adults and teenagers. The prevalence of disorders developing due to social media is also increasing. 
 
 An inexpensive solution if to utilise a combination of Raspberry Pi technology and telemedicine to provide an alternative method for an initial mental health consultation, which in turns greatly improves the quality of life for people suffering from undiagnosed mental illness. At the same time also reducing the enormous public cost, which funds can be allocated elsewhere in the public system.
 
