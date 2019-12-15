@@ -6,6 +6,8 @@ layout: default
 
 ## URL: https://careers.pageuppeople.com/346/cdw/en/job/650496/systems-engineer-office-365?source=IND 
 
+![Screenshot]](https://github.com/spg6/my-profile/blob/master/Screenshot%20Job%20Description.png)
+
 Screenshot of job posting:
 Accessed 5/12/19 9:00 PM
 
@@ -24,3 +26,5 @@ Moreover, within the next 3 years I intend to complete two IT certifications. In
 Secondly, I plan to complete the Information Technology Infrastructure Library (ITIL) 4 Foundation certification which is the well-known and introductory standard for validating the IT Service Management (ITSM) skillset.
 
 Combined with an undergraduate IT degree, industry certifications and professional experience at a senior IT support level, I will have developed a strong foundation to advance into an IT infrastructure position, and subsequently a specialised cloud-based system engineer role.
+
+![Career Plan]](https://github.com/spg6/my-profile/blob/master/plan.png)
