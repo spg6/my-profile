@@ -13,4 +13,7 @@ layout: default
 [My ideal job in IT - Cloud Systems / Office 365 Engineer](./ideal-job-o365-engineer.html).
 
 
+[Personal Profile](./personal-profile.html).
+
+
 [IT Project Proposal - Dr Jane](./dr-jane.html).
