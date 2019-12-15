@@ -78,6 +78,8 @@ In addition, many physical problems such as a thyroid problem or sleep deficienc
 
 Dr Jane will be an application that is developed in Java and runs on a Raspberry Pi 4 Model B with 4 GB random access memory (RAM), quad core 1.5GHz ARM processor and 32 GB SD Card for storage space. The Raspberry Pi is a micro-computer that is low cost and powerful, allowing mass production of Dr Jane’s for distribution, in a quick manner at minimal cost. The Raspbian Operating System (OS), which is a light weight and based on Debian Linux is standard OS for Raspberry Pi’s. Dr Jane will run the Raspbian OS with a command line interface (CLI) as the application will not utilise the graphical user interface (GUI).
 
+* * *
+
 The following hardware will need to be purchased for Dr Jane from Pi Australia (Trading As: Little Bird Electronics Pty Ltd)
 
 Item	Cost	Quantity	Purpose
@@ -93,11 +95,10 @@ Total cost, incl GST: $201.25
 The Dr Jane application for the Raspberry Pi will need to be written in Java and requires intermediate Java skills from a Java programmer. In addition, the Java programmer needs to have some hardware skills or knowledge with setting up a Raspberry Pi, at a minimum, some Linux administration skills.
 
 # Outcome
+* * *
 
 If the development and distribution of the Dr Jane mental health robot is successful, it will be another method available for all Australians to help them with their mental health diagnose. The earlier that a mental health disorder is diagnosed and treated, the better the outcome is, especially for younger adults to prevent further determination on missed educational, career and social opportunities; which in turn, provides a significant benefit to the public system by reducing costs which can be better spent elsewhere.
 
 The impact of the Dr Jane mental health robot could pave the way for further development of psychological testing by non-humans, with further development inclusive of artificial intelligence (AI).
 
 Overall, the impact could provide substantial benefits for all persons, governments and businesses, but at the same time, a fine line needs to be adhered to, ensuring that medical practitioners have independent control and oversight of similar robots.
-
-
