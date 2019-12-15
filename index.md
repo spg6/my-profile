@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to my Github!
 
-[About Me](./about-me.html).
+[About Me](./meet-samuel.html).
 
 
 [Interest in Information Technology (IT)](./interest-in-IT.html).
