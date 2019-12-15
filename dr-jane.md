@@ -70,8 +70,6 @@ Upon completion of the test, Dr Jane will add up the results, including reversin
 |< 11       	|The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.                                      |
 |>= 11          |The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing a mental health issue.|
 
-Would you like to book an appointment with your GP or videoconference a GP to discuss a treatment plan or further discuss the results?
-
 The drawback to the above tests is that a questionnaire completed by a bot is no substitute to a trained and qualified medical practitioner or mental health nurse or specialist. Similarly, the bot, Dr Jane, does not have the emotional intelligence or capacity to make a medical evaluation independent of the questions in the context of the persons current personal situation.
 
 For example, if the person taking the test is on the Autism spectrum or has a form of learning disorder, they may fail the cognitive test, but their cognitive levels are at level that is normal for themselves personally.
