@@ -8,7 +8,7 @@ layout: default
 
 ### Large image
 
-![Screenshot](Screenshot Job Description.png)
+![Screenshot](https://spg6.github.io/my-profile/Screenshot Job Description.png)
 
 Screenshot of job posting:
 Accessed 5/12/19 9:00 PM
@@ -29,4 +29,4 @@ Secondly, I plan to complete the Information Technology Infrastructure Library (
 
 Combined with an undergraduate IT degree, industry certifications and professional experience at a senior IT support level, I will have developed a strong foundation to advance into an IT infrastructure position, and subsequently a specialised cloud-based system engineer role.
 
-![Career Plan](plan.png)
+![Career Plan](https://spg6.github.io/my-profile/plan.png)
