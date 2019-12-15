@@ -45,26 +45,27 @@ The second component of the test is a sequence of 12 questions from the GHQ-12 t
 
 “The 12-item General Health Questionnaire contains three factors, namely Anxiety and Depression, Social Dysfunction, and Loss of Confidence.”  https://hqlo.biomedcentral.com/articles/10.1186/1477-7525-2-63 
 
-Question	Answer
-Have you recently been able to concentrate on whatever you are doing?	0 – 3 with 0 being the worst and 3 being the greatest.
-Have you recently lost much sleep due to some worry?
-	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently felt constantly under strain?	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently felt that you could not overcome your difficulties?	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently been feeling unhappy and depressed?	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently been losing confidence in yourself?	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently been thinking of yourself as a worthless person?	0 – 3 with 0 being the best and 3 being the worst.
-Have you recently felt that you are playing a useful role in life?	0 – 3 with 0 being the worst and 3 being the greatest.
-Have you recently felt capable of making decisions about things?	0 – 3 with 0 being the worst and 3 being the greatest.
-Have you recently been able to enjoy your normal day-to-day activities?	0 – 3 with 0 being the worst and 3 being the greatest.
-Have you recently been able to face up to your problems?	0 – 3 with 0 being the worst and 3 being the greatest.
-Have you recently been feeling reasonably happy, all things considered?	0 – 3 with 0 being the worst and 3 being the greatest.
+| Question	                                                            | Answer                                               |
+|:----------------------------------------------------------------------:------------------------------------------------------|
+|Have you recently been able to concentrate on whatever you are doing?	|0 – 3 with 0 being the worst and 3 being the greatest.|
+|Have you recently lost much sleep due to some worry?                   |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently felt constantly under strain?	                    |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently felt that you could not overcome your difficulties?  |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently been feeling unhappy and depressed?                  |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently been losing confidence in yourself?	                |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently been thinking of yourself as a worthless person?	    |0 – 3 with 0 being the best and 3 being the worst.    |
+|Have you recently felt that you are playing a useful role in life?	    |0 – 3 with 0 being the worst and 3 being the greatest.|
+|Have you recently felt capable of making decisions about things?       |0 – 3 with 0 being the worst and 3 being the greatest.|
+|Have you recently been able to enjoy your normal day-to-day activities?|0 – 3 with 0 being the worst and 3 being the greatest.|
+|Have you recently been able to face up to your problems?	            |0 – 3 with 0 being the worst and 3 being the greatest.|
+|Have you recently been feeling reasonably happy, all things considered?|0 – 3 with 0 being the worst and 3 being the greatest.|
+
 
 Upon completion of the test, Dr Jane will add up the results, including reversing some of the results as the numbers can mean a different result, then provide a general recommendation based on the following the best result as per Likert:
 
 Result	Outcome
-< 11	The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.
->= 11	The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing mental health issues.
+### < 11	The answers provided do not indicate that you are under psychological distress or experiencing mental health issues.
+### >= 11	The answers that you have provided show that you may be under psychological distress which could indicate that you are experiencing mental health issues.
 
 Would you like to book an appointment with your GP or videoconference a GP to discuss a treatment plan or further discuss the results?
 
