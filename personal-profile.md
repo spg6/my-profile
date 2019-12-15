@@ -4,19 +4,19 @@ layout: default
 
 # Personal Profile (Personality Tests)
 
-Myers–Briggs Type Indicator
+### Myers–Briggs Type Indicator
 
 The Myers-Briggs personality test indicates that I have the personality type of ‘The Protagonist’ (ENFJ-A) with the individual traits of Extraverted, 67%; Intuitive, 62%; Feeling, 74%; Judging, 76%; Assertive, 61%; alongside the role of diplomat, and strategy of people mastery.
 
-The Visual, Aural, Read/Write, Kinesthetic (VARK) Questionnaire
+### The Visual, Aural, Read/Write, Kinesthetic (VARK) Questionnaire
 
 The VARK result of ‘Multimodal’ suggests that I have a multi-mode method of learning; with the individual scores of Visual, 10; Aural, 7; Read/Write, 12; Kinesthetic, 11.
 
-International Personality Item Pool (IPIP) Big Five Personality Test
+### International Personality Item Pool (IPIP) Big Five Personality Test
 
 IPIP’s Big Five Personality Test measures my personality traits of Factor 1 – Extroversion, 70%; Factor 2 – Emotional stability, 66%; Factor 3 – Agreeableness, 71%; Factor 4 – Conscientiousness, 62%; Factor 5 – Intellect/Imagination, 52%.
 
-Reflection
+## Reflection
 
 The similar results presented in the IPIP Big File Personality and Myers-Briggs Type Indicator test show that I score highly for extraversion and agreeableness which indicate that I am outgoing, social and optimistic. Furthermore, Myers-Briggs Type Indicator test explains that I am assertive protagonist, and that I may believe myself to be too independent and not solicit the advice of others. The VARK test establishes that I have a ‘multimodal’ type of learning and shows that I am strongest in learning by reading and writing, in conjunction with the weakest learning mode of listening and speaking.  Overall, these results allow me to identify the strengths and weaknesses in my personality traits, as well as a learning style of various methods.
 
