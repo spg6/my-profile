@@ -44,7 +44,7 @@ The first set of questions Dr Jane will ask are general questions based on the S
 
 The second component of the test is a sequence of 12 questions from the GHQ-12 to measure the psychological stress of the individual. The person will need to answer the questions on a numeric scale of 0 to 3, where 0 represents ‘not at all’ and 3 represents ‘all the time’.
 
-“The 12-item General Health Questionnaire contains three factors, namely Anxiety and Depression, Social Dysfunction, and Loss of Confidence.”  https://hqlo.biomedcentral.com/articles/10.1186/1477-7525-2-63 
+“The 12-item General Health Questionnaire contains three factors, namely Anxiety and Depression, Social Dysfunction, and Loss of Confidence.” (Gao et al., 2004)
 
 | Question	                                                            | Answer                                               |
 |:----------------------------------------------------------------------:------------------------------------------------------|
@@ -106,3 +106,7 @@ If the development and distribution of the Dr Jane mental health robot is succes
 The impact of the Dr Jane mental health robot could pave the way for further development of psychological testing by non-humans, with further development inclusive of artificial intelligence (AI).
 
 Overall, the impact could provide substantial benefits for all persons, governments and businesses, but at the same time, a fine line needs to be adhered to, ensuring that medical practitioners have independent control and oversight of similar robots.
+
+References
+
+Gao, F., Luo, N., Thumboo, J., Fones, C., Li, S. and Cheung, Y. (2004). Health and Quality of Life Outcomes, 2(1), p.63.
